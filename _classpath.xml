@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="J:/Music/IR_Assignment/Jars/apache-lucene.jar"/>
+	<classpathentry kind="lib" path="J:/Music/IR_Assignment/Jars/boilerpipe-1.1.0.jar"/>
+	<classpathentry kind="lib" path="J:/Music/IR_Assignment/Jars/boilerpipe-1.2.1.jar"/>
+	<classpathentry kind="lib" path="J:/Music/IR_Assignment/Jars/jcommon-1.0.8.jar"/>
+	<classpathentry kind="lib" path="J:/Music/IR_Assignment/Jars/jfreechart.jar"/>
+	<classpathentry kind="lib" path="J:/Music/IR_Assignment/Jars/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="J:/Music/IR_Assignment/Jars/nekohtml-1.9.17.jar"/>
+	<classpathentry kind="lib" path="J:/Music/IR_Assignment/Jars/org.apache.lucene.core_2.9.1.v201101211721.jar"/>
+	<classpathentry kind="lib" path="J:/Music/IR_Assignment/Jars/org.tartarus.snowball.jar"/>
+	<classpathentry kind="lib" path="J:/Music/IR_Assignment/Jars/scanner-3.1.0.cr1-sources.jar"/>
+	<classpathentry kind="lib" path="J:/Music/IR_Assignment/Jars/xerces-2_6_2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solr-analysis-extras-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solr-cell-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solr-clustering-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solr-core-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solr-dataimporthandler-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solr-dataimporthandler-extras-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solr-langid-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solr-map-reduce-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solr-morphlines-cell-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solr-morphlines-core-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solr-solrj-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solr-test-framework-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solr-uima-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solr-velocity-4.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solrj-lib/commons-io-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solrj-lib/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solrj-lib/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solrj-lib/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solrj-lib/noggit-0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solrj-lib/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solrj-lib/wstx-asl-3.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/solr-4.10.1/solr-4.10.1/dist/solrj-lib/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="J:/Music/IR_Assignment/Jars/jdom.jar"/>
+	<classpathentry kind="lib" path="J:/Music/IR_Assignment/Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="J:/Music/IR_Assignment/Jars/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="J:/Music/IR_Assignment/Jars/javax.xml.parsers-1_1.jar"/>
+	<classpathentry kind="lib" path="J:/Music/IR_Assignment/Jars/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="J:/Music/IR_Assignment/Jars/slf4j-simple-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/Downloads/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/.m2/repository/com/google/api-client/google-api-client/1.22.0/google-api-client-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/.m2/repository/com/google/apis/google-api-services-youtube/v3-rev179-1.22.0/google-api-services-youtube-v3-rev179-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/.m2/repository/com/google/apis/google-api-services-youtubeAnalytics/v1-rev63-1.22.0/google-api-services-youtubeAnalytics-v1-rev63-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/.m2/repository/com/google/apis/google-api-services-youtubereporting/v1-rev10-1.22.0/google-api-services-youtubereporting-v1-rev10-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/.m2/repository/com/google/collections/google-collections/1.0/google-collections-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/.m2/repository/com/google/http-client/google-http-client/1.20.0/google-http-client-1.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/.m2/repository/com/google/http-client/google-http-client-jackson2/1.20.0/google-http-client-jackson2-1.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/.m2/repository/com/google/oauth-client/google-oauth-client/1.22.0/google-oauth-client-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/.m2/repository/com/google/oauth-client/google-oauth-client-java6/1.20.0/google-oauth-client-java6-1.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vinod Chhapariya/.m2/repository/com/google/oauth-client/google-oauth-client-jetty/1.20.0/google-oauth-client-jetty-1.20.0.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/samples"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
